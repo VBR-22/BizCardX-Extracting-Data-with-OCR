@@ -7,7 +7,7 @@ import re
 import pandas as pd
 
 #title
-st.title(":blue[BizCardX-Extracting-Business-Card-Data-with-OCR]") 
+st.title(":red[BusinessCardX-Extracting-Data]") 
 st.write(" ")
 col1, col2,col3= st.columns([3,0.5,4.5])
 with col1:
