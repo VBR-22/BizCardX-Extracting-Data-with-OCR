@@ -15,3 +15,11 @@ I have Created a GUI using streamlit that contains the follwing features
 It can  allows users to  upload an image of a business card and extract relevant information from it using easyOCR.
 
 The extracted informations are company name, card holdername, designation, mobile number, email address, website URL, area, city, state,and pin code.
+
+WORKING:
+
+Users will be able to upload the photo to extract the data from the files.
+
+Then users can access the dashboard from a web browser and easily identify the  extracted informations such as company name, card holdername, designation, mobile number, email address, website URL, area, city, state,and pin code..
+
+The streamlit application must be secure, efficient, and user-friendly. The dashboard must be easily accessible and provide the data in the viewable manner.
